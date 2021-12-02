@@ -99,6 +99,6 @@ var fartscroll = (function () {
       document.getElementsByTagName('body')[0].appendChild(container);
     }
 
-    return container;
+    return container
   }
 })();
